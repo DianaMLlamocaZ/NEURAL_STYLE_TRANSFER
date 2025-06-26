@@ -19,7 +19,7 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 # 2) RESULTADOS
 A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar la red neuronal de transferencia de estilo:
 - **Prueba 1**:
-  - Imagen de contenido:
+  - **Imagen de contenido: Machu Picchu, Perú**
     ![MachuPicchu](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/machu_picchu.jpg)
 
   - Imagen de estilo:
