@@ -38,7 +38,7 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
 
   - **Imagen de estilo: Cubismo**
     
-    ![ImagenEstilo](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_estilo_2.JPG)
+    ![ImagenEstilo](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_estilo.JPG)
 
   - **Imagen resultante:**
   - 
