@@ -17,3 +17,11 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 
 ----
 # RESULTADOS
+
+
+----
+# CÓMO FUNCIONA
+* Arquitectura
+* Función de pérdida
+* Proceso de optimización
+
