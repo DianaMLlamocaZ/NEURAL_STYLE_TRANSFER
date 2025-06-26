@@ -4,7 +4,7 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 - Código: [¡Click aquí!](./NeuralStyleTransfer_FromScratch.ipynb)
 
 -----
-# INTRODUCCIÓN
+# 1) INTRODUCCIÓN
 ## ¿QUÉ ES UNA NEURAL STYLE TRANSFER?
 
 
@@ -16,11 +16,11 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 ## IMPLEMENTACIÓN
 
 ----
-# RESULTADOS
+# 2) RESULTADOS
 
 
 ----
-# CÓMO FUNCIONA
+# 3) CÓMO FUNCIONA
 * Arquitectura
 * Función de pérdida
 * Proceso de optimización
