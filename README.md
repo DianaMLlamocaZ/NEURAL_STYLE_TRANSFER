@@ -24,6 +24,7 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
     ![MachuPicchu](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_contenido_machu_picchu.JPG)
 
   - **Imagen de estilo:La noche estrellada, Van Gogh**
+    
     ![ImagenEstilo](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_estilo_2.JPG)
 
   - **Imagen resultante:**
