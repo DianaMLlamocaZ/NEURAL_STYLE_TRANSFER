@@ -18,7 +18,7 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 ----
 # 2) RESULTADOS
 A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar la red neuronal de transferencia de estilo:
-- **Prueba 1**:
+- **PRUEBA 1**:
     - **Imagen de contenido: Machu Picchu, Perú**
       
     ![MachuPicchu](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_contenido_machu_picchu.JPG)
@@ -31,6 +31,18 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
   - 
     ![ImagenResultante](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/ResultadoFinal1.JPG)
 
+- **PRUEBA 2**:
+  - **Imagen de contenido: Juguetes**
+      
+    ![Muñecos](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_contenido.JPG)
+
+  - **Imagen de estilo: Cubismo**
+    
+    ![ImagenEstilo](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_estilo_2.JPG)
+
+  - **Imagen resultante:**
+  - 
+    ![ImagenResultante](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/ImagenResultado2.JPG)
 
 ----
 # 3) CÓMO FUNCIONA
