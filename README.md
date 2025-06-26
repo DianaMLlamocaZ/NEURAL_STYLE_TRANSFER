@@ -46,10 +46,8 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
 
 ----
 # 3) CÓMO FUNCIONA
-* Arquitectura
-* Función de pérdida
-* Proceso de optimización:
-
-
-Nota: A partir de la época 3000, con un l_r=0.005 el modelo ya no tiene mejoras en el style loss. Por ese motivo, el entrenamiento se detiene en esa iteración para evitar un mal performance.
+* ### Arquitectura
+* ### Función de pérdida
+* ### Proceso de optimización:
+  Nota: A partir de la época 3000, con un l_r=0.005 el modelo ya no tiene mejoras en el style loss. Por ese motivo, el entrenamiento se detiene en esa iteración para evitar un mal performance.
 
