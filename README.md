@@ -41,7 +41,7 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
     ![ImagenEstilo](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/imagen_estilo.JPG)
 
   - **Imagen resultante:**
-  - 
+    
     ![ImagenResultante](https://github.com/DianaMLlamocaZ/NEURAL_STYLE_TRANSFER/blob/main/IMAGENES/ImagenResultado2.JPG)
 
 ----
