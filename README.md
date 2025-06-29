@@ -62,7 +62,7 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
 * ### Función de pérdida
   - **Content loss:** Usé el mse para calcular la 'diferencia'(de feature maps) entre la imagen de contenido y la imagen generada.
   - **Style loss:** Para calcular la pérdida de estilo, se debe calcular la matriz de Gram para cada imagen: la imagen de estilo y la imagen generada.
-     Debido a que son 5 capas convolucionales por las que debe pasar cada una de las imágenes, la pérdida para la imagen generada deberá ser el 'error acumulado' de la imagen generada a través de estas 5 capas que se obtiene de calcular el mse al compararla con la imagen de estilo. 
+     Debido a que son 5 capas convolucionales por las que debe pasar cada una de las imágenes, la pérdida para la imagen generada deberá ser el 'error acumulado' (diferencia de las matrices de Gram entre ambas imágenes) de la imagen generada a través de estas 5 capas que se obtiene de calcular el mse al compararla con la imagen de estilo. 
     
 * ### Proceso de optimización:
 * Para entrenar la red neuronal, usé el optimizador "Adam" con un learning_rate de 0.005.
