@@ -60,8 +60,8 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
   - Para extraer el estilo, se usaron las capas conv_0, conv_5, conv_10, conv_19, conv_28.
     
 * ### Función de pérdida
-  - Content loss: Usé el mse para calcular la 'diferencia' entre la imagen de contenido y la imagen generada.
-  - Style loss: Para calcular la pérdida de estilo, se debe calcular la matriz de Gram para cada imagen: la imagen de estilo y la imagen generada.
+  - **Content loss:** Usé el mse para calcular la 'diferencia'(de feature maps) entre la imagen de contenido y la imagen generada.
+  - **Style loss:** Para calcular la pérdida de estilo, se debe calcular la matriz de Gram para cada imagen: la imagen de estilo y la imagen generada.
       Debido a que son 5 capas convolucionales por las que debe pasar cada una de las imágenes, la pérdida para la imagen generada deberá ser el 'error acumulado' de la imagen generada a través de estas 5 capas que se obtiene de calcular el mse al compararla con la imagen de estilo. 
     
 * ### Proceso de optimización:
