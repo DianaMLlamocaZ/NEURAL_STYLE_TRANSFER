@@ -24,11 +24,6 @@ Sin embargo, se puede usar cualquier otra imagen de contenido y estilo. ¡Igual 
 
 
 ----
-
-## IMPLEMENTACIÓN
-
-
-----
 # 2) RESULTADOS
 A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar la red neuronal de transferencia de estilo:
 - **PRUEBA 1**:
