@@ -5,11 +5,12 @@ En este repositorio, almaceno un proyecto relacionado a la transferencia de esti
 
 -----
 # 1) INTRODUCCIÓN
-## ¿QUÉ ES UNA NEURAL STYLE TRANSFER?
-
+## ¿QUÉ ES "NEURAL STYLE TRANSFER"?
+Es una técnica que usa redes neuronales convolucionales para combinar el contenido de una imagen con el estilo artístico de la otra.
 
 ----
 ## DESCRIPCIÓN DEL PROYECTO
+Dada una imagen de contenido y una imagen de estilo, se obtendrá, como resultado final, una imagen resultante que combina el estilo de una con el contenido de la otra.
 
 ----
 
