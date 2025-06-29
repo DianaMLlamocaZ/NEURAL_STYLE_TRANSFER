@@ -15,9 +15,12 @@ Dada una imagen de contenido y una imagen de estilo, se obtendrá, como resultad
 Para probar el modelo, utilicé las siguientes 2 imágenes de contenido:
 - Imagen de Macchu Picchu, Perú
 - Imagen de 2 juguetes
+
 Y 2 imágenes de estilo:
 - La noche estrellada, Van Gogh
 - Cubismo
+
+Sin embargo, se puede usar cualquier otra imagen de contenido y estilo. ¡Igual podrás ver el resultado! 
 
 
 ----
