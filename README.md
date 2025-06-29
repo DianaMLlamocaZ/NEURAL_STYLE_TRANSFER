@@ -65,8 +65,8 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
      Debido a que son 5 capas convolucionales por las que debe pasar cada una de las imágenes, la pérdida para la imagen generada deberá ser el 'error acumulado' de la imagen generada a través de estas 5 capas que se obtiene de calcular el mse al compararla con la imagen de estilo: diferencia total de las matrices de Gram entre ambas imágenes al pasar a través de las 5 capas de convolución. 
     
 * ### Proceso de optimización:
-* Para entrenar la red neuronal, usé el optimizador "Adam" con un learning_rate de 0.005.
-* La imagen 'generada' es la que debe ser el tensor con requires_grad=True, NO los pesos del modelo (ya que se usarán estos solo para la extracción de características)
+  - Para entrenar la red neuronal, usé el optimizador "Adam" con un learning_rate de 0.005.
+  - La imagen 'generada' es la que debe ser el tensor con requires_grad=True, NO los pesos del modelo (ya que se usarán estos solo para la extracción de características)
   
 * **Notas:**
 - A partir de la época 3000, con un l_r=0.005 el modelo ya no tiene mejoras en el style loss. Por ese motivo, el entrenamiento se detiene en dicha iteración para evitar un mal performance.
