@@ -10,7 +10,15 @@ Es una técnica que usa redes neuronales convolucionales para combinar el conten
 
 ----
 ## DESCRIPCIÓN DEL PROYECTO
-Dada una imagen de contenido y una imagen de estilo, se obtendrá, como resultado final, una imagen resultante que combina el estilo de una con el contenido de la otra.
+Dada una imagen de contenido y una imagen de estilo, se obtendrá, como resultado final, una imagen que combina el estilo de una con el contenido de la otra.
+
+Para probar el modelo, utilicé las siguientes 2 imágenes de contenido:
+- Imagen de Macchu Picchu, Perú
+- Imagen de 2 juguetes
+Y 2 imágenes de estilo:
+- La noche estrellada, Van Gogh
+- Cubismo
+
 
 ----
 
