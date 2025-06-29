@@ -73,6 +73,6 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
 
 ---
 # 4) Consideraciones importantes
-- Es normal que el 'content loss' incremente su valor en cada época o iteración, ya que la 'imagen generada' que se quiere 'entrenar' es una 'copia' de la imagen de contenido. Así, la 'distancia' (loss) entre ambas (inicialmente) es cero. Esto ocasionará que en las épocas posteriores el 'content loss' incremente, ya que luego de cada 'paso', el 'estilo' es añadido a la imagen inicial (la imagen que se quiere entrenar), diferenciándola de la imagen de contenido y generando que el loss content de la imagen inicial incremente.
+    - Es normal que el 'content loss' incremente su valor en cada época o iteración, ya que la 'imagen generada' que se quiere 'entrenar' es una 'copia' de la imagen de contenido. Así, la 'distancia' (loss) entre ambas (inicialmente) es cero. Esto ocasionará que en las épocas posteriores el 'content loss' incremente, ya que luego de cada 'paso', el 'estilo' es añadido a la imagen inicial (la imagen que se quiere entrenar), diferenciándola de la imagen de contenido y generando que el loss content de la imagen inicial incremente.
 
-- Así, si la imagen inicial hubiese sido 'ruido' al inicio, el loss content sería diferente desde las primeras iteraciones.
+    - Así, si la imagen inicial hubiese sido 'ruido' al inicio, el loss content sería diferente desde las primeras iteraciones.
