@@ -27,6 +27,7 @@ Sin embargo, se puede usar cualquier otra imagen de contenido y estilo. ¡Igual 
 
 ## IMPLEMENTACIÓN
 
+
 ----
 # 2) RESULTADOS
 A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar la red neuronal de transferencia de estilo:
@@ -58,7 +59,11 @@ A continuación, se mostrarán las imágenes resultantes que obtuve al aplicar l
 
 ----
 # 3) CÓMO FUNCIONA
-* ### Arquitectura
+* ### Arquitectura:
+  - Se usó el modelo VGG19 para la extracción de características (lo convolucional, no el MLP). Por ese motivo, los pesos del modelo NO tienen por qué cambiar en cada iteración/época.
+  - Para extraer el contenido, se usó la capa conv4_2.
+  - Para extraer el estilo, se usaron las capas conv_0, conv_5, conv_10, conv_19, conv_28.
+    
 * ### Función de pérdida
 * ### Proceso de optimización:
   Nota: A partir de la época 3000, con un l_r=0.005 el modelo ya no tiene mejoras en el style loss. Por ese motivo, el entrenamiento se detiene en dicha iteración para evitar un mal performance.
