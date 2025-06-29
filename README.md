@@ -18,7 +18,7 @@ Para probar el modelo, utilicé las siguientes 2 imágenes de contenido:
 
 Y 2 imágenes de estilo:
 - La noche estrellada, Van Gogh
-- Cubismo
+- Cubismo, Pablo Picasso
 
 Sin embargo, se puede usar cualquier otra imagen de contenido y estilo. ¡Igual podrás ver el resultado! 
 
